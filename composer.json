@@ -9,4 +9,9 @@
     "require": {
         "nesbot/carbon": "^2.34"
     }
+    "autoload": {
+        "par-4": {
+            "hello\\":"src/"
+        }
+    }
 }
