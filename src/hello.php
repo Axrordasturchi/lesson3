@@ -1,9 +1,9 @@
 <?php
 
-namespace hello;
+namespace axror;
 
 class hello {
-    function sayHello () {
-        echo "hello!";
+    function sayHello() {
+        echo "Hello World!";
     }
 }

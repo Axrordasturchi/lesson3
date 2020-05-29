@@ -1,5 +1,5 @@
 {
-    "name": "Axrordasturchi/lesson3",
+    "name": "axror/lesson3",
     "authors": [
         {
             "name": "Axrordasturchi",
@@ -8,10 +8,10 @@
     ],
     "require": {
         "nesbot/carbon": "^2.34"
-    }
+    },
     "autoload": {
-        "par-4": {
-            "hello\\":"src/"
+        "psr-4": {
+            "axror\\": "src"
         }
     }
 }
